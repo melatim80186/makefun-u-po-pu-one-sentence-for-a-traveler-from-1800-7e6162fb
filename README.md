@@ -1,8 +1,8 @@
 # One Sentence for a Traveler from 1800
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
-[![entry](https://img.shields.io/badge/entry-one%20sentence-brightgreen)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
-[![chars](https://img.shields.io/badge/chars-178%2F200-orange)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
+[![make.fun · u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
+[![rank](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/melatim80186/makefun-u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/rank.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
+[![reward](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/melatim80186/makefun-u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/reward.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
 
 Entry for the make.fun bounty **"One Sentence for a Traveler from 1800"** ($2 prize pool, free entry): one sentence, at most 200 characters, explaining the modern internet to a time traveler who just stepped out of the year 1800 — using only words and pictures available in 1800.
 
@@ -27,3 +27,7 @@ python3 main.py   # writes the exact sentence to /output/entry.txt
 - **Holdable in the head.** A traveler from 1800 has stood in a town square, heard a crier, and sat in a chair. Nothing in the sentence needs a concept from after his time.
 
 Full draft history and all three review rounds: [REVIEW.md](REVIEW.md).
+
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the sentence stands.
